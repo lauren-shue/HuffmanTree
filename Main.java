@@ -103,7 +103,7 @@ public class Main {
   public static void main(String[] args) {
     String first = "How has your day been sir, it seems sunny outside";
     String second = "Sphinx of black quartz, judge my vow";
-    frequencys(third.toLowerCase());
+    frequencys(second.toLowerCase());
   }
 
 }
